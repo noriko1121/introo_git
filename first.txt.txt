@@ -1,2 +1,5 @@
 はじめてのGitとGitHub 山浦 清透
 Gitの基本的なワークフロー
+- git add
+- git commit
+
